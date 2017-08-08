@@ -1,6 +1,6 @@
 /************************************************************
 * Project		:	custom-menu								*
-* Author		:	Scott Wren								*
+* Author		:	SW								*
 * Date created	:	7/19/2017								*
 * Purpose		:	Change the default behavoir of megamenu *
 * when the cursor moves away from a menu the top menu will *
@@ -16,8 +16,8 @@
 * 															*
 * 	Revision History:										*
 * 	Date:		Author		Description						*
-* 	7/20/2017	S Wren		Remove top active menu			*
-*	7/26/2017	S Wren		Fixed menu flick on Chrome		*
+* 	7/20/2017	S W		Remove top active menu			*
+*	7/26/2017	S W		Fixed menu flick on Chrome		*
 * **********************************************************/
 				
 /************************************************************
