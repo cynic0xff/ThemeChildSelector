@@ -1,6 +1,6 @@
 /****************************************************************************
 * Project		: news and blog filter         			                    *
-* Author		: Scott Wren							                    *
+* Author		: SW							                    *
 * Date created	: 7/21/2017							                	    *
 * Location      : http://stagingnrt.com/oncollaborative/news-and-blog/		*
 * Purpose		: Filter/display news and blog based on which link has been *
@@ -13,9 +13,9 @@
 * 	                                                                		*
 *	BUG FIXES:																*
 *	Date:		Author		Description										*
-*	8/3/2017	S Wren		Added url traversal parameter to prevent page	*
+*	8/3/2017	S W		Added url traversal parameter to prevent page	*
 *							displaying a 404								*
-*	8/3/2017	S Wren		Added displayNews() & displayBlog() functions	*
+*	8/3/2017	S W		Added displayNews() & displayBlog() functions	*
 *							because when returning from a page that isn't 	*
 *							in the news or blog section it would 404		*
 *																			*
