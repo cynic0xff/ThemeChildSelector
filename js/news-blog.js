@@ -2,7 +2,7 @@
 * Project		: news and blog filter         			                    *
 * Author		: SW							                    *
 * Date created	: 7/21/2017							                	    *
-* Location      : http://stagingnrt.com/oncollaborative/news-and-blog/		*
+* Location      : /news-and-blog/		*
 * Purpose		: Filter/display news and blog based on which link has been *
 *                 clicked					                                *
 * 														                	*
