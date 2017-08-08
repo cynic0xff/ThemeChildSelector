@@ -1,8 +1,8 @@
 /****************************************************************************
 * Project		: property filter         			                        *
-* Author		: Scott Wren							                    *
+* Author		: SW							                    *
 * Date created	: 7/21/2017							                	    *
-* Location      : http://stagingnrt.com/oncollaborative/property-portfolio/ *
+* Location      : /property-portfolio/ *
 * Purpose		: Filter/display the property location based on which       *
 *                 location has been selected                                *
 * 														                	*
@@ -10,8 +10,8 @@
 * 												                			*
 * 	Revision History:				                						*
 * 	Date:		Author		Description					                	*
-*	7/24/2017	S Wren		Added url parameter check and redirect			*
-*	7/26/2017	S Wren		Added portfolio redirection						*
+*	7/24/2017	S W		Added url parameter check and redirect			*
+*	7/26/2017	S W		Added portfolio redirection						*
 * 	                                                                		*
 ****************************************************************************/
 
@@ -134,19 +134,15 @@
 			switch(location) {
 				case 'Midwest':
 					window.location.replace('./property-portfolio/?Midwest');
-					//window.location.replace('./Portfolio%20–%20OnCollaborative.html?Midwest');
 					break;
 				case 'Northeast':
 					window.location.replace('./property-portfolio/?Northeast');
-					//window.location.replace('./Portfolio%20–%20OnCollaborative.html?Northeast');
 					break;
 				case 'South':
 					window.location.replace('./property-portfolio/?South');
-					//window.location.replace('./Portfolio%20–%20OnCollaborative.html?South');
 					break;
 				case 'West':
 					window.location.replace('./property-portfolio/?West');
-					//window.location.replace('./Portfolio%20–%20OnCollaborative.html?West');
 					break;
 				default:
 					//abandon ship
